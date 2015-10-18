@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1443572014 source:/home/danek/test/main.cpp
+	<iostream>
+	<functional>
+	"tak.h"
+
+1443734848 /home/danek/test/tak.h
+	<functional>
+	<iostream>
+
+1443571998 source:/home/danek/test/tak.cpp
+	"tak.h"
+	<iostream>
+
